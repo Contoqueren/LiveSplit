@@ -8472,4 +8472,14 @@
     <Type>Script</Type>
     <Description>Load Remover for AC Odyssey (by Cynaschism)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Color Symphony</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Contoqueren/autosplitter/master/.github/workflows/ColorSymphony.asl?token=APKPEP2EX23ILBBGWB3TY326UNQ3O</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitter available (by Contos)</Description>
+  </AutoSplitter>
 </AutoSplitters>
